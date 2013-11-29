@@ -1,0 +1,24 @@
+{
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"ColorPicker",
+		"CSScomb",
+		"CSSLint",
+		"DocBlockr",
+		"Emmet",
+		"HTML5",
+		"jQuery",
+		"LESS",
+		"Neon Color Scheme",
+		"Nettuts+ Fetch",
+		"Nodejs",
+		"PackageResourceViewer",
+		"Python Improved",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"tern_for_sublime",
+		"Theme - Flatland"
+	]
+}

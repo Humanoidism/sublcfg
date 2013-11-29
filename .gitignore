@@ -1,0 +1,11 @@
+.DS_Store
+.git
+.hg
+.svn
+node_modules
+*.pyc
+*.pyo
+*.o
+*.cache
+*.last-run
+*.system-ca-bundle
