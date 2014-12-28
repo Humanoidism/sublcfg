@@ -44,7 +44,7 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Neon Color Scheme/Neon.tmTheme",
+	"color_scheme": "Packages/User/Behave.tmTheme",
 	"detect_indention": true,
 	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -62,7 +62,7 @@
 	[
 		".git"
 	],
-	"font_face": "PanicSans",
+	"font_face": "Input",
 	"font_options":
 	[
 		"no_round"
@@ -73,7 +73,16 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"MacTerminal",
+		"Floobits",
+		"DashDoc",
+		"Jade",
+		"GoSublime",
+		"Go",
+		"Graphviz",
+		"Swift",
+		"AAAPackageDev"
 	],
 	"indent_guide_options":
 	[
@@ -97,10 +106,11 @@
 	],
 	"scroll_past_end": true,
 	"scroll_speed": 1.1,
-	"tab_size": 4,
-	"theme": "Flatland Dark.sublime-theme",
+	"tab_size": 2,
+	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\":,.;<>~!@#%^&*|+=[]{}`~?",
 	"word_wrap": true,
 	"wrap_width": 80
 }
