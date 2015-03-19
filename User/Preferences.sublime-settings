@@ -43,8 +43,9 @@
 		"*.otf"
 	],
 	"bold_folder_labels": true,
+	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/Behave.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Boron (SL).tmTheme",
 	"detect_indention": true,
 	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -73,16 +74,19 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"MacTerminal",
-		"Floobits",
-		"DashDoc",
-		"Jade",
+		"Color Highlighter",
+		"JSX",
 		"GoSublime",
+		"ElixirSublime",
 		"Go",
+		"MacTerminal",
 		"Graphviz",
-		"Swift",
-		"AAAPackageDev"
+		"Floobits",
+		"SublimeCodeIntel",
+		"Vintageous",
+		"Vintage",
+		"Elixir",
+		"DashDoc"
 	],
 	"indent_guide_options":
 	[
@@ -93,11 +97,7 @@
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"margin": 0,
-	"match_brackets": true,
-	"match_brackets_angle": true,
-	"match_brackets_braces": true,
-	"match_brackets_content": true,
-	"match_brackets_square": true,
+	"match_brackets": false,
 	"match_selection": true,
 	"match_tags": true,
 	"rulers":
@@ -110,7 +110,7 @@
 	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_separators": "./\\()\":,.;<>~!@#%^&*|+=[]{}`~?",
+	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
 	"word_wrap": true,
 	"wrap_width": 80
 }
